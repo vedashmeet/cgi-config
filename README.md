@@ -1,7 +1,10 @@
 ## Common Gateway Interface Configuration on Linux Ubuntu
 
+##### For Github Page ([https://vedashmeet.github.io/cgi-config/](https://vedashmeet.github.io/cgi-config/))
+##### For Github Repository ([https://github.com/vedashmeet/cgi-config/](https://github.com/vedashmeet/cgi-config/))
+
 Common Gateway Interface provides the middleware between WWW servers and external databases and information source. The Web server typically passes the form information to a small application program that processes the data and may send back a confirmation message. This process or convention for passing data back and forth between the server and the application is called the common gateway interface (CGI).
-  For this, I have develop a simple C program for printing a multiplication table that run on a web server and display output on any browser.
+    For this, I have develop a simple C program for printing a multiplication table that run on a web server and display output on any browser.
 
 ### Steps for Configuration of CGI:
 
